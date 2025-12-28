@@ -1,0 +1,7 @@
+{
+  "name": "NeuroVoice AI - Stroke Detection System",
+  "description": "An AI-powered speech classification platform for stroke detection using speech analysis, featuring patient management, real-time inference results, and comprehensive analytics dashboards.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
